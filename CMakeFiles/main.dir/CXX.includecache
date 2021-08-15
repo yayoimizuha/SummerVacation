@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomokazu/SummerVacation/main.cpp
+cstdio
+-
+omp.h
+-
+cstdlib
+-
+ctime
+-
+cmath
+-
+

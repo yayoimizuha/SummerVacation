@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/prime_factorer3.dir/prime_factorer3.cpp.o -c /home/tomokazu/SummerVacation/prime_factorer3.cpp",
+  "file": "/home/tomokazu/SummerVacation/prime_factorer3.cpp"
+},
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/prime_factorer2.dir/prime_factorer2.cpp.o -c /home/tomokazu/SummerVacation/prime_factorer2.cpp",
+  "file": "/home/tomokazu/SummerVacation/prime_factorer2.cpp"
+},
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/prime_factorer4.dir/prime_factorer4.cpp.o -c /home/tomokazu/SummerVacation/prime_factorer4.cpp",
+  "file": "/home/tomokazu/SummerVacation/prime_factorer4.cpp"
+},
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/prime_factorer.dir/prime_factorer.cpp.o -c /home/tomokazu/SummerVacation/prime_factorer.cpp",
+  "file": "/home/tomokazu/SummerVacation/prime_factorer.cpp"
+},
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/test.dir/test.cpp.o -c /home/tomokazu/SummerVacation/test.cpp",
+  "file": "/home/tomokazu/SummerVacation/test.cpp"
+},
+{
+  "directory": "/home/tomokazu/SummerVacation/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -Wall -fopenmp -fopenmp -g -o CMakeFiles/main.dir/main.cpp.o -c /home/tomokazu/SummerVacation/main.cpp",
+  "file": "/home/tomokazu/SummerVacation/main.cpp"
+}
+]

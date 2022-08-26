@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wall -fopenmp -fopenmp -g CMakeFiles/prime_factorer4.dir/prime_factorer4.cpp.o -o prime_factorer4 

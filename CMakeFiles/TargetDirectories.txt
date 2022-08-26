@@ -1,9 +1,0 @@
-/home/tomokazu/SummerVacation/CMakeFiles/rebuild_cache.dir
-/home/tomokazu/SummerVacation/CMakeFiles/edit_cache.dir
-/home/tomokazu/SummerVacation/CMakeFiles/prime_factorer4.dir
-/home/tomokazu/SummerVacation/CMakeFiles/prime_factorer3.dir
-/home/tomokazu/SummerVacation/CMakeFiles/main.dir
-/home/tomokazu/SummerVacation/CMakeFiles/test.dir
-/home/tomokazu/SummerVacation/CMakeFiles/prime_factorer5.dir
-/home/tomokazu/SummerVacation/CMakeFiles/prime_factorer.dir
-/home/tomokazu/SummerVacation/CMakeFiles/prime_factorer2.dir

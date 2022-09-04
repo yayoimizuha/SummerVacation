@@ -20,7 +20,6 @@ int main() {
 
     printf("素因数分解を実行:");
     scanf("%lld", &num);
-    printf("\t%lld\n", num);
 
     unsigned long long tmp_num;
     unsigned long long tmp = num;

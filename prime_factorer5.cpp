@@ -1,27 +1,24 @@
-//
-// Created by tomokazu on 2021/08/14.
-//
-
 #include <cstdio>
 #include <cmath>
 #include <cstdlib>
 #include <omp.h>
 #include <cstring>
 
-unsigned long long dividable_num(unsigned long long num);
 
+unsigned long long dividable_num(unsigned long long num);
 
 int main() {
     /*Check OMP_CANCELLATION is true*/
     if (omp_get_cancellation() != true) {
+        printf("環境変数に`OMP_CANCELLATION=true`を設定してください！\n");
         return 1;
     }
     /*set prime check integer*/
     unsigned long long num;
-    //256 * 256 * 256 * 256 * 256 * 256
-    num = (unsigned long long) 729 * 64;
-    printf("素因数分解を実行: %lld\n",num);
 
+    printf("素因数分解を実行:");
+    scanf("%lld",&num);
+    
     unsigned long long tmp_num;
     unsigned long long tmp = num;
     int array_order;

@@ -2,11 +2,11 @@
 // Created by tomokazu on 2021/08/14.
 //
 
-#include <cstdio>
-#include <cmath>
-#include <cstdlib>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
 #include <omp.h>
-#include <cstring>
+#include <string.h>
 
 unsigned long long dividable_num(unsigned long long num);
 

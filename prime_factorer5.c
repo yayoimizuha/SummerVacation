@@ -72,7 +72,7 @@ unsigned long long dividable_num(unsigned long long num) {
     unsigned long long ans = num;
     bool cancel = false;
 #pragma omp parallel shared(cancel)
-#pragma omp for
+#pragma omp for schedule(static,100000)
     for (unsigned long long i = 2; i < (unsigned long long) sqrt((double) num) + 1; ++i) {
         if (num % i == 0) {
             ans = i;
